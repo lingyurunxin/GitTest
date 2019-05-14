@@ -1,1 +1,8 @@
+﻿<<<<<<< HEAD
 ﻿这个是一个文件 liyuanfegnad莉莉娅UN发GG二嘎
+=======
+﻿这个是一个文件 dzg
+>>>>>>> b5c62ad655f566fd5b87dd556a9472c1b0c3dd21
+
+
+这是一个文件qzh
